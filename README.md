@@ -18,10 +18,10 @@ This Power BI dashboard visualizes mobile sales data across various brands and m
 - XYZ region shows maximum growth in mid-range devices
 
 ## 🖼️ Dashboard Preview:
-![Mobile Sales Dashboard](mobile_sales_data.png)
+![Mobile Sales Dashboard](mobile_sales_data.jpg)
 
 ## Screendhots/Demo
-Show what the dashboard looks like.- ![Alt text]().
+Show what the dashboard looks like.- ![Alt text](https://github.com/RahulRaman1995/mobile_data_dashboard/blob/main/mobile%20sales%20data.jpg).
 
 
 
